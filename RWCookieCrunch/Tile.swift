@@ -6,4 +6,6 @@
 //  Copyright © 2017 Skyler Svendsen. All rights reserved.
 //
 
-import Foundation
+class Tile {
+    
+}
